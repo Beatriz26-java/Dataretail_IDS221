@@ -1,0 +1,7 @@
+_i_d___v_e_n_t_a_,_f_e_c_h_a_,_i_d___p_r_o_d_u_c_t_o_,_c_a_n_t_i_d_a_d_,_p_r_e_c_i_o___u_n_i_t_a_r_i_o_,_c_a_n_a_l_,_t_o_t_a_l___v_e_n_t_a_s_,_n_o_m_b_r_e___p_r_o_d_u_d_c_t_o_,_c_a_t_e_g_o_r_i_a_,_c_o_s_t_o___u_n_i_t_a_r_i_o_,_u_t_i_l_i_d_a_d___e_s_t_i_m_a_d_a_,_t_i_p_o___p_r_o_m_o_c_i_o_n_,_p_o_r_c_e_n_t_a_j_e_,_n_t_i_p_o___p_r_o_m_o_c_i_o_n_,anio,mes,dia,dia_semana,es_fin_semana
+1,2026-02-05,101,2,15.5,web,31.0,SENSOR INTELIGENTE,Iot,10.25,-5.0,Descuento,10.0,,2026,2,5,Thursday,False
+2,2026-01-06,102,1,22.0,App,22.0,LICENCIA DE SOFTWARE,Sofware,14.0,8.0,Bundle,15.0,,2026,1,6,Tuesday,False
+3,2026-01-07,101,3,15.5,Tienda,46.5,SENSOR INTELIGENTE,Iot,10.25,-15.25,Sin Promocion,0.0,,2026,1,7,Wednesday,False
+4,2026-01-08,103,5,8.75,web,43.75,DISPOSITIVO MOVIL,Hardware,5.5,-18.75,Sin Promocion,0.0,,2026,1,8,Thursday,False
+5,2026-01-09,104,2,30.0,App,60.0,SERVICIO ANALITICO,Servicios,20.0,-10.0,Sin Promocion,0.0,,2026,1,9,Friday,False
+6,2026-01-10,102,4,20.0,Tienda,80.0,LICENCIA DE SOFTWARE,Sofware,14.0,-36.0,Sin Promocion,0.0,,2026,1,10,Saturday,True
